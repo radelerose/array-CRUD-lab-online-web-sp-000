@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   remove_element_from_end_of_array = ["Richard", "Robert", "Carmella", "Ronald"]
-  Ronald= remove_element_from_end_of_array.pop
+  Ronald=remove_element_from_end_of_array.pop
   puts remove_element_from_end_of_array.inspect
 end
 
