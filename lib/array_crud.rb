@@ -26,7 +26,7 @@ end
 
 def remove_element_from_start_of_array(array)
   remove_element_from_start_of_array = ["Richard", "Robert", "Carmella", "Ronald"]
-  Richard = remove_element_from_start_of_array.shift
+  Richard=remove_element_from_start_of_array.shift
   puts remove_element_from_start_of_array.inspect
 end
 
